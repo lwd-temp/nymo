@@ -7,7 +7,7 @@ require (
 	github.com/lucas-clemente/quic-go v0.25.0
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
